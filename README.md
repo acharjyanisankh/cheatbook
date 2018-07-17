@@ -9,4 +9,4 @@ git clone https://github.com/acharjyanisankh/cheatbook.git
 cd cheatbook
 sudo ./install.sh
 
-Have fun 
+Have fun !!!
