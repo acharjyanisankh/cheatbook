@@ -13,4 +13,6 @@ script is as simple as anyone can understand and code use:
 
 *sudo ./install.sh*
 
+Than Run the command in yor terminal #cheats --help
+
 Have fun !!!
