@@ -9,6 +9,8 @@ script is as simple as anyone can understand and code use:
 
 *cd cheatbook*
 
+*sudo chmod +x install.sh*
+
 *sudo ./install.sh*
 
 Have fun !!!
